@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Portfolio",
+    "description": "Click on Portfolio to view our projects",
+    "icon": "icon-",
+    "link": "/Portfolio/"
+  },
+  {
+    "title": "About",
+    "description": "Click on About Us to meet the team",
+    "icon": "icon-",
+    "link": "/about/"
+  },
+  {
+    "title": "Contact",
+    "description": "Please contact us about questons, internships, or a proposal",
+    "icon": "icon-",
+    "link": "/contact/"
+  }
+]
