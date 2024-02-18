@@ -12,8 +12,8 @@ WizLegal leverages cutting-edge Generative AI technologies to automate and strea
 **Your WizLegal Account**. To access our Services, we may ask you to create an Account. You agree to provide correct, current, and complete Account information and allow us to use it to communicate with you about our Services. Our communications to you using your Account information will satisfy any requirements for legal notices.
 
 
-You may not share your Account login information, WizLegal API key, or Account credentials with anyone else. You also may not make your Account available to anyone else. You are responsible for all activity occurring under your Account, and you agree to notify us immediately if you become aware of any unauthorized access to your Account by sending an email to support@WizLegal.com.
-You may close your Account at any time by contacting us at support@WizLegal.com.
+You may not share your Account login information, WizLegal API key, or Account credentials with anyone else. You also may not make your Account available to anyone else. You are responsible for all activity occurring under your Account, and you agree to notify us immediately if you become aware of any unauthorized access to your Account by sending an email to contact@wizlegal.ai.
+You may close your Account at any time by contacting us at contact@wizlegal.ai.
 
 
 **Evaluation and Additional Services.** In some cases, we may permit you to evaluate our Services for a limited time or with limited functionality. Use of our Services for evaluation purposes are for your personal, non-commercial use only.
@@ -101,7 +101,7 @@ Upon termination of these Terms, a Subscription, or your access to the Services,
 
 **No assignment.** These Terms may not be transferred or assigned by you without our prior written consent, but may be assigned by us without restriction.
 
-**Use of our brand.** You may not, without our prior written permission, use our name, logos, or other trademarks in connection with products or services other than the Services, or in any other way that implies our affiliation, endorsement, or sponsorship. To seek permission, please email us at support@WizLegal.com.
+**Use of our brand.** You may not, without our prior written permission, use our name, logos, or other trademarks in connection with products or services other than the Services, or in any other way that implies our affiliation, endorsement, or sponsorship. To seek permission, please email us at contact@wizlegal.ai.
 
 **Export Controls.** You may not export or provide access to the Services into any U.S. embargoed countries or to anyone on (i) the U.S. Treasury Department’s list of Specially Designated Nationals, (ii) any other restricted party lists identified by the Office of Foreign Asset Control, (iii) the U.S. Department of Commerce Denied Persons List or Entity List, or (iv) any other restricted party lists. You represent and warrant that you and anyone accessing or using the Services on your behalf, or using your Account credentials, are not such persons or entities and are not located in any such country.
 

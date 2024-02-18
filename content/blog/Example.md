@@ -5,7 +5,8 @@ description = "AI Powered Legal Automation"
 tags = [
     "Legal Tech",
     "Legal AI",
-    "Legal Automation",
+    "Legal Process Outsourcing",
+    "LPO",
     "AI Legal Automation",
     "AI Legal Tech",
     "AI Legal",
@@ -14,9 +15,7 @@ tags = [
 image = "/img/legal-ai.png"
 +++
 
-## Revolutionizing Legal Processes with AI-Powered Automation
-
-Our suite of AI-driven legal automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.
+Our suite of AI-driven legal process automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.
 
 ## AI-Powered Document Management
 
