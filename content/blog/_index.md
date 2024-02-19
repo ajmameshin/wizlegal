@@ -1,6 +1,6 @@
 +++
-aliases = ["Solutions", "articles", "AI Powered Legal Automation", "Legal Tech", "GenAI Legal Assistant"]
+description = "WizLegal Solutions for Legal Automation and AI Powered Legal Services"
 title = "Solutions"
-author = "Hugo Authors"
-tags = ["index"]
+author = "Wiz Legal"
+tags = ["solutions"]
 +++

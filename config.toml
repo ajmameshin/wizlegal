@@ -1,6 +1,6 @@
 baseURL = "https://wizlegal.io"
 title = "WizLegal"
-author = "username"
+author = "Wiz Legal"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true

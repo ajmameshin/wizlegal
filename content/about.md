@@ -1,7 +1,6 @@
 +++
-title = "About:"
+title = "About"
 description = "WizLegal - AI Powered Legal Automation"
-aliases = ["about-us", "WizLegal", "Legal Automation", "Legal Tech", "Legal AI", "AI Legal Automation", "AI Legal Tech", "AI Legal", "AI Legal Services", "AI Legal Solutions", "AI Legal Software", "AI Legal Tools"]
 +++
 
 
