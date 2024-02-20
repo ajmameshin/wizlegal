@@ -54,7 +54,7 @@ googleAnalytics = "G-SE4861P0W2"
   [[menu.main]]
     identifier = "blog"
     name = "Solutions"
-    url = "/blog/"
+    url = "/solutions/"
     weight = 2
 
   [[menu.main]]
