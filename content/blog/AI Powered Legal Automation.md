@@ -2,7 +2,7 @@
 title = "AI Powered Legal Automation"
 date = "2023-12-12"
 description = "AI Powered Legal Automation"
-aliases = ["solutions", "example"]
+aliases = ["solutions"]
 tags = [
     "Legal Tech",
     "Legal AI",
