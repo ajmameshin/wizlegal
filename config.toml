@@ -25,7 +25,7 @@ googleAnalytics = "G-SE4861P0W2"
 
   [params.logo]
     main = "img/logo/wizlegal-logo.png"
-    alt = "WizLegal Logo"
+    alt = ""
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -46,8 +46,8 @@ googleAnalytics = "G-SE4861P0W2"
     meta_og_image = "img/logo/wizlegal-logo.png"
     meta_og_description = "WizLegal leverages cutting-edge generative AI technologies to automate and streamline a wide range of legal tasks, from document review and legal research to contract analysis and due diligence"
     meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username1"
-    meta_twitter_creator = "@username"
+    meta_twitter_site = "@wizlegal"
+    meta_twitter_creator = "@wizlegal"
 
 [menu]
 
