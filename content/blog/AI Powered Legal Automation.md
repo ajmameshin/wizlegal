@@ -1,6 +1,6 @@
 +++
 title = "AI Powered Legal Automation"
-date = "2023-12-12"
+date = "2024-05-22"
 description = "AI Powered Legal Automation"
 aliases = ["solutions"]
 tags = [
