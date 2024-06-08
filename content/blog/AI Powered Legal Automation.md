@@ -13,16 +13,18 @@ tags = [
     "AI Legal",
     "Legal Process Outsourcing",
 ]
-image = "/img/legal-ai.png"
+image = "/img/legal-ai-solution.png"
 +++
 
 WizLegal is like a Legal Process Outsourcing (LPO) provider, but we are leveraging AI to save our clients a lot of money and time.  
 
 Our suite of AI-driven legal process automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.
 
-## Document Management with Q&A Chat Bots
+## Document Management Chatbot Assistant
 
 With WizLegal, managing legal documents has never been easier. Our advanced document management solutions include storage, OCR conversion, and electronic document management system. After uploading and indexing your legal documents, you gain instant access to crucial information anytime, anywhere, significantly boosting productivity and adapting seamlessly to the demands of remote work. Once documents are indexed, your legal assistant just knows all the information available in the documents. You can get accurate answers to complex legal questions in seconds, by leveraging AI to summarize, search, and compare information available in legal documents, from one document to thousands of documents.  Q&A Chat Bot becomes your trusted assistant in reviewing and analyzing contracts and creating client deliverables for legal transactions.  Modern search technology such as RAG, knowledge graphs, and semantic search allow to find most relevant documents for your searches.
+
+![Contract Review](/img/query_files.png)
 
 ## Contract Review with AI Legal Assistant
 Unlock unparalleled efficiency and precision in contract management with our AI Legal Assistant, your partner for contract reviews. Leveraging an advanced checklist-based approach, our AI meticulously evaluates every contract against critical legal criteria, including compliance, obligations, risk factors, and essential clauses, ensuring thorough scrutiny and accuracy.  
