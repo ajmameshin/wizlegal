@@ -20,9 +20,20 @@ WizLegal is like a Legal Process Outsourcing (LPO) provider, but we are leveragi
 
 Our suite of AI-driven legal process automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.
 
-## Document Management Chatbot Assistant
+## Document Research Assistant
 
-With WizLegal, managing legal documents has never been easier. Our advanced document management solutions include storage, OCR conversion, and electronic document management system. After uploading and indexing your legal documents, you gain instant access to crucial information anytime, anywhere, significantly boosting productivity and adapting seamlessly to the demands of remote work. Once documents are indexed, your legal assistant just knows all the information available in the documents. You can get accurate answers to complex legal questions in seconds, by leveraging AI to summarize, search, and compare information available in legal documents, from one document to thousands of documents.  Q&A Chat Bot becomes your trusted assistant in reviewing and analyzing contracts and creating client deliverables for legal transactions.  Modern search technology such as RAG, knowledge graphs, and semantic search allow to find most relevant documents for your searches.
+With WizLegal, managing and analyzing legal documents has never been easier. Our advanced document management solutions include storage, search, and question answering capabilities. After uploading and indexing your legal documents, you gain instant access to crucial information anytime, anywhere, significantly boosting productivity and adapting seamlessly to the demands of remote work. 
+
+Once documents are indexed, your legal assistant has access to all the information available in the documents. Modern search technologies such as RAG, knowledge graphs, and semantic search allow you to find the most relevant documents for your research. Due to large language models' super-human proficiency in processing text, analyzing documents and generating drafts of legal and marketing materials is becoming much easier. 
+
+You can get accurate answers to complex legal questions in seconds by leveraging AI to summarize, search, and compare information available in legal documents, from one document to thousands of documents. This technology can be used for various tasks, including:
+
+- Analysis of witness statements
+- Clause generation
+- Document summarization, with the ability to effectively summarize large documents in simple terms
+
+Our legal research chatbot becomes your trusted assistant in reviewing and analyzing contracts and creating client deliverables for legal transactions.
+
 
 ![Contract Review](/img/query_files.png)
 
