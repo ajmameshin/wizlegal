@@ -37,7 +37,7 @@ Every answer, finding, and every generated piece of content comes with precise c
 * Lawyers can verify any finding by clicking through to the exact paragraph in the source document.
 * AI-assisted work seamlessly integrates with traditional legal research methodologies, enhancing rather than replacing human expertise.
 
-With WizLegal, you're not just streamlining processes - you're augmenting human legal intelligence with AI.  Our legal research assistant collaborates with you in reviewing and analyzing contracts while also crafting client deliverables for legal transactions.
+With WizLegal, you are not just streamlining processes - you are augmenting human legal intelligence with AI.  Our legal research assistant collaborates with you in reviewing and analyzing contracts while also crafting client deliverables for legal transactions.
 
 ![Contract Review](/img/query_files.png)
 
