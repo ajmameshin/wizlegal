@@ -22,9 +22,9 @@ Our suite of AI-driven legal process automation services is designed to empower 
 
 ## Document Research Assistant
 
-With WizLegal, managing and analyzing legal documents is augmented with AI capabilities to assist the lawyer. Our Document Research Assistant doesn't just store and search - it thinks, analyzes, and creates legal text with amazing proficiency.  It can use RAG and semantic search to find the most relevant document sections for your research. The assistant can engage in nuanced legal discussions, answering questions about key clauses, dates, parties, and other critical information. It can also generate drafts of legal documents, including contracts, memoranda, and other legal documents.  
+With WizLegal, managing and analyzing legal documents is augmented with AI capabilities to assist lawyers. Our Document Research Assistant doesn't just store and search - it thinks, analyzes, and creates legal text with amazing proficiency. It can use RAG and semantic search to find the most relevant document sections for your research. Based on the information available in your documents and additional legal knowledge, the assistant can engage in nuanced legal discussions, answering questions about key clauses, dates, parties, and other critical information. It can also generate drafts of legal documents, including contracts, memoranda, and other documents.
 
-Imagine uploading thousands of complex legal documents and having them not only indexed, but deeply understood within minutes.  The real magic happens when you start asking questions. Due to LLM's super-human proficiency in processing text, analyzing documents and generating drafts of legal and marketing materials is becoming much easier. Want to know the potential liabilities across 500 contracts? Or find every instance where a specific clause has been modified across years of negotiations? No problem.  WizLegal doesn't just search - it reasons. It can:
+Imagine uploading thousands of complex legal documents and having them not only indexed but deeply understood within minutes.  The real magic happens when you start asking questions. Due to LLM's superhuman proficiency in processing text, analyzing documents and generating drafts of legal and marketing materials is becoming much easier. Want to know the potential liabilities across 500 contracts? Or find every instance where a specific clause has been modified across years of negotiations? No problem.  WizLegal doesn't just search - it reasons. It can:
 
 * Conduct multi-document analyses that would take many days, in mere seconds.
 * Generate clauses that aren't just boilerplate, but tailored to your specific case history and risk profile.
@@ -37,8 +37,7 @@ Every answer, finding, and every generated piece of content comes with precise c
 * Lawyers can verify any finding by clicking through to the exact paragraph in the source document.
 * AI-assisted work seamlessly integrates with traditional legal research methodologies, enhancing rather than replacing human expertise.
 
-With WizLegal, you're not just streamlining processes - you're augmenting human legal intelligence with AI.  Our legal research assistant becomes your collaborator in reviewing and analyzing contracts and creating client deliverables for legal transactions.
-
+With WizLegal, you're not just streamlining processes - you're augmenting human legal intelligence with AI.  Our legal research assistant collaborates with you in reviewing and analyzing contracts while also crafting client deliverables for legal transactions.
 
 ![Contract Review](/img/query_files.png)
 
