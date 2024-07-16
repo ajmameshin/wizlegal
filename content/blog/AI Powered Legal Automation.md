@@ -18,21 +18,26 @@ image = "/img/legal-ai-solution.png"
 
 WizLegal is like a Legal Process Outsourcing (LPO) provider, but we are leveraging AI to save our clients a lot of money and time.  
 
-Our suite of AI-driven legal process automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.
+Our suite of AI-driven legal process automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.  
 
 ## Document Research Assistant
 
-With WizLegal, managing and analyzing legal documents has never been easier. Our advanced document management solutions include storage, search, and question answering capabilities. After uploading and indexing your legal documents, you gain instant access to crucial information anytime, anywhere, significantly boosting productivity and adapting seamlessly to the demands of remote work. 
+With WizLegal, managing and analyzing legal documents is augmented with AI capabilities to assist the lawyer. Our Document Research Assistant doesn't just store and search - it thinks, analyzes, and creates legal text with astonishing proficiency.  It can use RAG and semantic search to find the most relevant document sections for your research. The assistant can engage in nuanced legal discussions, answering questions about key clauses, dates, parties, and other critical information. It can also generate drafts of legal documents, including contracts, memoranda, and other legal documents.  
 
-Once documents are indexed, your legal assistant has access to all the information available in the documents. Modern search technologies such as RAG, knowledge graphs, and semantic search allow you to find the most relevant documents for your research. Due to large language models' super-human proficiency in processing text, analyzing documents and generating drafts of legal and marketing materials is becoming much easier. 
+Imagine uploading thousands of complex legal documents and having them not only indexed, but deeply understood within minutes.  The real magic happens when you start asking questions. Due to large language models' super-human proficiency in processing text, analyzing documents and generating drafts of legal and marketing materials is becoming much easier. Want to know the potential liabilities across 500 contracts? Or find every instance where a specific clause has been modified across years of negotiations? WizLegal doesn't just search - it reasons. It can:
 
-You can get accurate answers to complex legal questions in seconds by leveraging AI to summarize, search, and compare information available in legal documents, from one document to thousands of documents. This technology can be used for various tasks, including:
+* Conduct multi-document analyses that would take many days, in mere seconds.
+* Generate clauses that aren't just boilerplate, but tailored to your specific case history and risk profile.
+* Summarize lengthy legal texts with a level of precision and insight that rivals senior partners.
+* Flag unusual or potentially problematic clauses across vast document sets that human eyes might never catch.
 
-- Analysis of witness statements
-- Clause generation
-- Document summarization, with the ability to effectively summarize large documents in simple terms
+Every answer, finding, and every generated piece of content comes with precise citations to the source documents.  It's like having a brilliant legal assistant who not only provides insights but also hands you the exact reference document and page number for every point they make.  This means:
 
-Our legal research chatbot becomes your trusted assistant in reviewing and analyzing contracts and creating client deliverables for legal transactions.
+* AI-generated conclusions are backed by specific references to the original legal documents.
+* Lawyers can verify any finding by clicking through to the exact paragraph in the source document.
+* AI-assisted work seamlessly integrates with traditional legal research methodologies, enhancing rather than replacing human expertise.
+
+With WizLegal, you're not just streamlining processes - you're augmenting human legal intelligence with AI.  Our legal research assistant becomes your collaborator in reviewing and analyzing contracts and creating client deliverables for legal transactions.
 
 
 ![Contract Review](/img/query_files.png)
