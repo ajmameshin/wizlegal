@@ -1,7 +1,7 @@
 +++
-title = "AI Powered Legal Automation"
-date = "2024-05-22"
-description = "AI Powered Legal Automation"
+title = "AI Legal Assistants"
+date = "2024-07-22"
+description = "AI Legal Assistants"
 aliases = ["solutions"]
 tags = [
     "Legal Tech",
@@ -9,16 +9,16 @@ tags = [
     "Legal Process Outsourcing",
     "LPO",
     "AI Legal Automation",
-    "AI Legal Tech",
-    "AI Legal",
+    "AI Legal Assistants",
+    "AI Assistants",
     "Legal Process Outsourcing",
 ]
 image = "/img/legal-ai-solution.png"
 +++
 
-WizLegal is like a Legal Process Outsourcing (LPO) provider, but we are leveraging AI to save our clients a lot of money and time.  
+WizLegal suite of AI legal assistants is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, contract review, litigation support, legal research, and contract drafting.  
 
-Our suite of AI-driven legal process automation services is designed to empower law firms and legal professionals, enabling them to focus on delivering superior legal counsel while we handle the complexities of document management, eDiscovery, contract review, litigation support, legal research, and contract drafting.  
+WizLegal is like a Legal Process Outsourcing (LPO) provider, but we are leveraging AI to save our clients a lot of money and time.  
 
 ## Document Research Assistant
 
