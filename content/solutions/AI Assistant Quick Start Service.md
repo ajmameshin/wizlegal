@@ -15,6 +15,11 @@ Everything you need to build and deploy production-ready AI Assistant Applicatio
 
 The **AI Assistant Quick Start** is a consulting service designed to bridge the gap between experimentation and building production-ready AI assistant applications. Built on the robust foundation of PrivateGPT, this comprehensive platform enables rapid development and deployment of scalable AI assistant solutions with a strong emphasis on privacy, accuracy, and performance.
 
+The most common task for AI Assistants is to analyze existing documents and generate new text via chat interface.  In addition, AI Assistants can perform various tasks via external API calling - like chat with your database data, create records, or make/change a reservation.  Because AI assistants are available via secure APIs, it is also possible to chat with AI Assistant from Slack using Slack App integration approach. 
+
+## How AI Assistants Work
+![How AI assistants work](/img/how-ai-assistants-work.png)
+
 ## Key Features
 
 1. Context-Aware Chat Interfaces: Utilize corporate data for highly accurate responses and recommendations.
