@@ -1,7 +1,7 @@
 +++
 title = "AI Assistant Quick Start Service"
 date = "2024-07-20"
-description = "AI Assistant Platform Quick Start"
+description = "AI Assistant Quick Start Service"
 aliases = ["solutions"]
 tags = [
     "AI Assistant Quick Start",
