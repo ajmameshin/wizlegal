@@ -19,7 +19,7 @@ googleAnalytics = "G-SE4861P0W2"
 [params]
 
   showBlog = true
-  mainSections = ['blog']
+  mainSections = ['solutions']
 
   googleFonts = true
 
@@ -52,7 +52,7 @@ googleAnalytics = "G-SE4861P0W2"
 [menu]
 
   [[menu.main]]
-    identifier = "blog"
+    identifier = "solutions"
     name = "Solutions"
     url = "/solutions/"
     weight = 2
