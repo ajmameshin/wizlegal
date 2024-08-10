@@ -11,7 +11,7 @@ tags = [
 image = "/img/ai-assistants-quickstart.jpg"
 +++
 
-Everything you need to build and deploy production-ready AI Assistant Applications.  Use open source frameworks and build your own chat assistants, RAG applications, AI powered API's, AI agents, and more. You can avoid spending months building MLOps platforms from scratch. AI Assistant Quick Start provides everything you need to build, train, fine-tune, and deploy GenAI-based solutions.
+Everything you need to build and deploy production-ready AI Assistant Applications.  Use open source frameworks and build your own chat assistants, RAG applications, AI powered API's, autonomous agents, and more. You can avoid spending months building MLOps platforms from scratch. AI Assistant Quick Start provides everything you need to build, train, fine-tune, and deploy GenAI-based solutions.
 
 The **AI Assistant Quick Start** is a consulting service designed to bridge the gap between experimentation and building production-ready AI assistant applications. Built on the robust foundation of PrivateGPT, this comprehensive platform enables rapid development and deployment of scalable AI assistant solutions with a strong emphasis on privacy, accuracy, and performance.
 
