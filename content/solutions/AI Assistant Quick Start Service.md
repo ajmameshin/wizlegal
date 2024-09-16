@@ -15,7 +15,7 @@ Everything you need to build and deploy production-ready AI Assistant Applicatio
 
 The **AI Assistant Quick Start** is a consulting service designed to bridge the gap between experimentation and building production-ready AI assistant applications. Built on the robust foundation of PrivateGPT, this comprehensive platform enables rapid development and deployment of scalable AI assistant solutions with a strong emphasis on privacy, accuracy, and performance.
 
-In just two weeks, we will configure a development platform for building your AI Assistants, setup your GitHub repository for CI/CD pipelines, and deploy a web-based demo of AI Assistant to your AWS account.  You can use open source frameworks to extend the demo and build your own chat assistants, bots, RAG applications, AI powered API's, autonomous agents, and more. You can avoid spending months on building MLOps platforms from scratch. AI Assistant Quick Start provides everything you need to build, train, fine-tune, and deploy GenAI-based solutions.
+In just a few weeks, we will configure a development platform for building your AI Assistants, setup your GitHub repository for CI/CD pipelines, and deploy a web-based demo of AI Assistant to your AWS account.  You can use open source frameworks to extend the demo and build your own chat assistants, bots, RAG applications, AI powered API's, autonomous agents, and more. You can avoid spending months on building MLOps platforms from scratch. AI Assistant Quick Start provides everything you need to build, train, fine-tune, and deploy GenAI-based solutions.
 
 The most common task for AI Assistants is to analyze existing documents and generate new text via chat interface.  In addition, AI Assistants can perform various tasks via external API calling - like chat with your database data, create records, or make/change a reservation.  Because AI assistants are available via secure APIs, it is also possible to chat with AI Assistant from Slack using Slack App integration approach. 
 
@@ -44,7 +44,7 @@ The most common task for AI Assistants is to analyze existing documents and gene
 
 1. Comprehensive Observability: Logging, monitoring, and alerting on AI application performance for optimal operation.
 
-1. Extensible Architecture: Leverage best of breed open-source frameworks like LlamaIndex, LangChain, PrivateGPT, FastAPI, Pydantic, and SQLAlchemy for further development.
+1. Extensible Architecture: Leverage best of breed open-source frameworks like LlamaIndex, Haystack, FastAPI, Pydantic, and SQLAlchemy for further development.
 
 1. User-Friendly WebApp: Gradio front-end with integrated authentication and modular task assistant components for easy customization.
 
