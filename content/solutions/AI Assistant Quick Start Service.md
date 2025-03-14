@@ -5,6 +5,7 @@ description = "AI Assistant Quick Start Service"
 aliases = ["solutions"]
 tags = [
     "AI Assistant Quick Start",
+    "AI Agent Jump Start",
     "GenAI Quick Start",
     "RAG Jump Start",
 ]
@@ -21,6 +22,8 @@ The most common task for AI Assistants is to analyze existing documents and gene
 
 ## How AI Assistants Work
 ![How AI assistants work](/img/how-ai-assistants-work.png)
+
+AI Assistants are similar to AI Agents which are automated systems that can independently accomplish tasks on behalf of users. More technical description in [OpenAI developer documentation](https://openai.github.io/openai-agents-python/) defines agents as LLMs equipped with instructions and tools, that can accomplish end-to-end complex tasks. AI Assistants are more focused on conversational interfaces and chatbots. AI Assistants can be used to automate tasks, answer questions, provide recommendations, and more.
 
 ## Key Features
 
@@ -46,7 +49,7 @@ The most common task for AI Assistants is to analyze existing documents and gene
 
 1. Extensible Architecture: Leverage best of breed open-source frameworks like LlamaIndex, Haystack, FastAPI, Pydantic, and SQLAlchemy for further development.
 
-1. User-Friendly WebApp: Gradio front-end with integrated authentication and modular task assistant components for easy customization.
+1. User-Friendly WebApp: front-end with integrated authentication and modular task assistant components for easy customization.
 
 1. Infrastructure Automation: Benefit from production-ready CI/CD pipelines for AWS deployment, test automation, Terraform-based infrastructure as code, and Docker-based containerization for easy development lifecycle.
 
@@ -56,7 +59,11 @@ The most common task for AI Assistants is to analyze existing documents and gene
 
 1. Modular Assistants: Leverage specialized modules for document review, research, and retrieval tasks.
 
-1. API Capabilities: Implement secure and scalable APIs to integrate AI-powered assistant technology into any interface.
+1. Agent loop: Built-in agent loop that handles calling tools, sending results to the LLM, and looping until the LLM is done.
+
+1. Function tools: Turn any API or Python function into a tool, with automatic schema generation and Pydantic-powered validation.
+
+1. Guardrails: Run input validations and checks in parallel to your agents, breaking early if the checks fail.
 
 
 The WizLegal AI Assistant Quick Start offers a robust, scalable, and secure solution for organizations aiming to rapidly deploy AI-powered applications while maintaining full control over their data and infrastructure. 
