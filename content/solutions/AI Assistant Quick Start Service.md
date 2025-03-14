@@ -1,6 +1,6 @@
 +++
 title = "AI Assistant Quick Start Service"
-date = "2024-07-20"
+date = "2025-03-14"
 description = "AI Assistant Quick Start Service"
 aliases = ["solutions"]
 tags = [
@@ -23,7 +23,7 @@ The most common task for AI Assistants is to analyze existing documents and gene
 ## How AI Assistants Work
 ![How AI assistants work](/img/how-ai-assistants-work.png)
 
-AI Assistants are similar to AI Agents which are automated systems that can independently accomplish tasks on behalf of users. More technical description in [OpenAI developer documentation](https://openai.github.io/openai-agents-python/) defines agents as LLMs equipped with instructions and tools, that can accomplish end-to-end complex tasks. AI Assistants are more focused on conversational interfaces and chatbots. AI Assistants can be used to automate tasks, answer questions, provide recommendations, and more.
+AI Assistants are similar to AI Agents which are automated systems that can independently accomplish tasks on behalf of users. More technical description in [OpenAI developer documentation](https://openai.github.io/openai-agents-python/) defines agents as LLMs equipped with instructions and tools, that can accomplish end-to-end complex tasks. AI Assistants can be used to answer questions, automate tasks,  provide recommendations, and more.
 
 ## Key Features
 
