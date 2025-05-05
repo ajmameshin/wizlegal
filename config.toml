@@ -39,12 +39,12 @@ googleAnalytics = "G-SE4861P0W2"
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "WizLegal leverages cutting-edge generative AI technologies to automate and streamline a wide range of legal tasks, from document review and legal research to contract analysis and due diligence"
+    meta_description = "WizLegal leverages cutting-edge generative AI technologies to automate and streamline a wide range of tasks for legal, tax, and business professionals - from document review and legal research to contract analysis and due diligence"
     meta_og_title = "WizLegal - AI Powered Legal Automation"
     meta_og_type = "website"
     meta_og_url = "https://wizlegal.io/"
     meta_og_image = "img/logo/wizlegal-logo.png"
-    meta_og_description = "WizLegal leverages cutting-edge generative AI technologies to automate and streamline a wide range of legal tasks, from document review and legal research to contract analysis and due diligence"
+    meta_og_description = "WizLegal leverages cutting-edge generative AI technologies to automate and streamline a wide range of tasks for legal, tax, and business professionals - from document review and legal research to contract analysis and due diligence"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@wizlegal"
     meta_twitter_creator = "@wizlegal"
